@@ -1,0 +1,59 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-section {
+    background-color: #ff6367;
+    height: 550px
+}
+
+.bottom-section {
+    background-color: #ff6367;
+    height: 200px
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+.free {
+    text-align: center;
+}
+
+.top-7 {
+    
+        color: white;
+        text-align: center;  
+}
+
+.btn {
+    background-color: black;
+    border-color: black;
+    border-radius: 40px;
+   
+}
+
+
+ul {
+    display: table; 
+   
+    text-align: left;
+}
+
+#learn {
+    color: black;
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+    h1 {
+      font-size: 30px;
+    }
+    .top-7 {
+        font-size: 20px;
+    }
+  }

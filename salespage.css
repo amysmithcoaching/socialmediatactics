@@ -1,0 +1,33 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 100px;
+}
+
+
+
+/* .block {
+    display: block;
+    width: 50%;
+    border: none;
+    background-color: #ff6367;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    
+  } */
+
+  .btn {
+      background-color: #ff6367;
+      border-color:  #ff6367
+  }
+
+#price {
+      color: red
+  }
+#strikeprice {
+      text-decoration: line-through;
+  }
+
+
+  
